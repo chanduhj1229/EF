@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/<YOUR_USERNAME>/<YOUR_PROJECT_NAME>)
 ![GitHub stars](https://img.shields.io/github/stars/<YOUR_USERNAME>/<YOUR_PROJECT_NAME>)
 
-Welcome to **Eventify Explore**! This project is designed to manage and enhance event experiences for both organizers and attendees, featuring **event creation, management, and real-time interactions**. It aims to streamline event processes, making it easier for users to navigate and engage.
+Welcome to **Eventify Explore**! This project is a frontend application designed to enhance the event browsing experience for users. It provides a seamless and intuitive interface for discovering and exploring events, making it easy to navigate and engage with event details.
 
 ## Table of Contents
 
@@ -16,26 +16,22 @@ Welcome to **Eventify Explore**! This project is designed to manage and enhance 
 
 ## Project Overview
 
-**Eventify Explore** is a platform built to simplify event management and enhance user engagement. Whether you're an organizer creating events or an attendee interacting in real-time, this project provides a seamless experience through its intuitive features.
+**Eventify Explore** is a frontend platform built to simplify event discovery and enhance user engagement. It’s designed for attendees who want to browse and explore events effortlessly. The application focuses on delivering a clean, responsive, and user-friendly experience for viewing event details.
 
 Key features include:
-- Event creation and management
-- Real-time interaction capabilities
-- User-friendly navigation
+- Browsing a variety of events
+- Detailed event descriptions (e.g., date, time, location, and more)
+- User-friendly navigation for seamless exploration
 
 ## Technologies Used
 
-This project leverages the following technologies:
+This project leverages the following frontend technologies:
 
 - **Frontend**: 
   - **React** - For building the user interface.
   - **TypeScript** - For type safety and an enhanced development process.
   - **Tailwind CSS** - For flexible and responsive design.
   - **ShadCN-UI** - For pre-built components with a modern design style.
-  
-- **Backend** (if applicable):
-  - **Node.js** - For building backend logic and APIs.
-  - **Express** - For routing and handling requests (or substitute with your preferred framework).
 
 ## How to Set Up the Project Locally
 
